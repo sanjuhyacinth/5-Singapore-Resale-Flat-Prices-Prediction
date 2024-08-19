@@ -35,12 +35,12 @@ Data Wrangling, EDA, Model Building, Model Deployment
 * Initial Cleaning: Handled missing values, corrected inconsistencies, and ensured the data's integrity.
 * Feature Engineering: Enhanced the dataset by creating new features and transforming existing ones to better capture the underlying patterns.
 
-### B. Feature Engineering:
+### B. Data Enhancement:
 * Outlier Detection: Identified and handled outliers to ensure the model's robustness.
 * Skewness Correction: Addressed skewed distributions using appropriate transformations.
 * Category Encoding: Encoded categorical features using techniques like Label Encoding to convert them into numerical formats suitable for machine learning algorithms.
 
-### C. Model BUilding:
+### C. Model Building:
 * Model building: Examined different regression models (e.g., Linear Regression, Random Forest Regressor, etc.)
 * Performance testing: Evaluated performance metrics to choose the best model for predicting resale price.
 * Model selection: The *Random Forest Regressor* model was selected based on its superior performance in terms of R-squared, Root Mean Squared and Mean Squared Error metrics.
